@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "name": "Python Programming",
+        "date": "2025-02-10",
+        "description": "Learn the fundamentals of Python programming.",
+        "registrations": [
+            {
+                "name": "sushanth",
+                "email": "sushanthchinnu837@gmail.com"
+            },
+            {
+                "name": "mani",
+                "email": "manideep131313@gmail.com"
+            },
+            {
+                "name": "manideep",
+                "email": "manideepmididoddi131313@gmail.com"
+            },
+            {
+                "name": "manideep",
+                "email": "manideepmididoddi131313@gmail.com"
+            },
+            {
+                "name": "sushanth",
+                "email": "sushanth123@gmail.com"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Data Science with R",
+        "date": "2025-02-15",
+        "description": "Introduction to data science using R.",
+        "registrations": [
+            {
+                "name": "sus",
+                "email": "sushanth12@gmail.com"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Python Programming",
+        "date": "25-02-10",
+        "description": "basic python",
+        "registrations": []
+    }
+]
